@@ -12,8 +12,11 @@ face_recognition (pip install face_recognition)
 
 Usage:
 Install the required libraries using the following commands:
+
 pip install opencv-python
+
 pip install face_recognition
+
 
 Replace the placeholder images and video file paths with your own in the script:
 known_image_path: Path to the known face image.
